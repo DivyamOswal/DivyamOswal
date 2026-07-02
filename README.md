@@ -12,9 +12,7 @@
 ### 🔧 About Me
 
 - 🎓 B.Tech in Cloud Technology & Information Security, Ajeenkya D Y Patil University (CGPA 8.3)
-- 💼 Currently interning at **Avotech**, building on a strong MERN + Python + Cloud foundation
-- 🚀 I build **scalable full-stack applications** — from AI-powered telemedicine platforms to real-time repo analytics dashboards
-- ☁️ Actively leveling up in **Microsoft Azure, Fabric & Power BI** — working toward DP-700 and PL-300 certifications
+- 🚀 I build **scalable full-stack applications** from AI-powered telemedicine platforms to real-time repo analytics dashboards
 - 🛠️ Open source maintainer on **Connect2Cure** and **RepoMetrics**
 - 📫 Reach me at **divyamoswal.work@gmail.com**
 

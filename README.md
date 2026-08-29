@@ -52,8 +52,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & ORM
@@ -63,17 +61,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
-
-### 🤖 AI / Generative AI
-
-<p>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-5C3EE8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_API_Integration-FF6F00?style=for-the-badge" />
 </p>
 
 ### 🔐 Authentication & Security

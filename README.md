@@ -93,17 +93,16 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
-| Project                                                               | Description                                                                                                   | Stack                                       |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-       |
-| [**Connect2Cure**](https://github.com/DivyamOswal/connect2cure)       | AI-powered telemedicine platform with WebRTC video calls and Gemini-based symptom triage                      | React, Node.js, MongoDB, WebRTC, Gemini API |
-| [**RepoMetrics**](https://github.com/DivyamOswal/repometrics)         | GitHub repository analytics platform with automated repository analysis and LLM-powered summaries             | React, Node.js, GitHub API, Groq AI         |
-| [**WorkSphere**](https://github.com/DivyamOswal/worksphere)           | Full-stack employee management system with CRUD operations, audit logs and optimized search                   | React, Node.js, Express, MongoDB            |
-| [**EaseWithStay**](https://github.com/DivyamOswal/easewithstay)       | Responsive hotel booking interface with a multi-step booking experience                                       | React, JavaScript, CSS3                     |
+| Project                                                               | Description                                                                                               | Tech Stack                                  |
+| :-------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
+| [**AI Code Reviewer**](https://github.com/DivyamOswal/aiCodeReviewer) | AI-powered code review platform that analyzes repositories and generates intelligent feedback using LLMs. | Next.js, TypeScript, Node.js, AI/LLM        |
+| [**Connect2Cure**](https://github.com/DivyamOswal/connect2cure)       | AI-powered telemedicine platform featuring WebRTC video consultations and Gemini-based symptom triage.    | React, Node.js, MongoDB, WebRTC, Gemini API |
+| [**WorkSphere**](https://github.com/DivyamOswal/worksphere)           | Full-stack employee management system with CRUD operations, audit logs, and optimized search.             | React, Node.js, Express, MongoDB            |
+| [**EaseWithStay**](https://github.com/DivyamOswal/easewithstay)       | Responsive hotel booking interface with a multi-step booking experience.                                  | React, JavaScript, CSS3                     |
 
----
 
 ## 🧠 Currently Exploring
 

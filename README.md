@@ -20,14 +20,14 @@
 
 ## 🔧 About Me
 
-* 🎓 B.Tech in **Cloud Technology & Information Security** from Ajeenkya D Y Patil University — CGPA 8.3
-* 💻 **Backend Developer Intern**, working on production-oriented APIs and application workflows
-* 🚀 Building **full-stack applications** with Next.js, TypeScript, Node.js and PostgreSQL
-* 🧠 Exploring **Generative AI, LLMs and AI-powered developer tools**
-* 🗄️ Experienced with both **SQL and NoSQL databases**
-* ☁️ Interested in **cloud infrastructure, scalable backend systems and distributed applications**
-* 🔐 Focused on authentication, authorization, API design and database architecture
-* 📫 Reach me at **[divyamoswal.work@gmail.com](mailto:divyamoswal.work@gmail.com)**
+- 🎓 B.Tech in **Cloud Technology & Information Security** from Ajeenkya D Y Patil University — CGPA 8.3
+- 💻 **Backend Developer Intern**, working on production-oriented APIs and application workflows
+- 🚀 Building **full-stack applications** with Next.js, TypeScript, Node.js and PostgreSQL
+- 🧠 Exploring **Generative AI, LLMs and AI-powered developer tools**
+- 🗄️ Experienced with both **SQL and NoSQL databases**
+- ☁️ Interested in **cloud infrastructure, scalable backend systems and distributed applications**
+- 🔐 Focused on authentication, authorization, API design and database architecture
+- 📫 Reach me at **[divyamoswal.work@gmail.com](mailto:divyamoswal.work@gmail.com)**
 
 ---
 
@@ -93,16 +93,16 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
-| Project                                                               | Description                                                                                               | Tech Stack                                  |
-| :-------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
-| [**AI Code Reviewer**](https://github.com/DivyamOswal/aiCodeReviewer) | AI-powered code review platform that analyzes repositories and generates intelligent feedback using LLMs. | Next.js, TypeScript, Node.js, AI/LLM        |
-| [**Connect2Cure**](https://github.com/DivyamOswal/connect2cure)       | AI-powered telemedicine platform featuring WebRTC video consultations and Gemini-based symptom triage.    | React, Node.js, MongoDB, WebRTC, Gemini API |
-| [**WorkSphere**](https://github.com/DivyamOswal/worksphere)           | Full-stack employee management system with CRUD operations, audit logs, and optimized search.             | React, Node.js, Express, MongoDB            |
-| [**EaseWithStay**](https://github.com/DivyamOswal/easewithstay)       | Responsive hotel booking interface with a multi-step booking experience.                                  | React, JavaScript, CSS3                     |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**AI Code Reviewer**](https://github.com/DivyamOswal/aiCodeReviewer) | AI-powered code review platform that analyzes repositories and generates intelligent feedback using LLMs. | Next.js, TypeScript, Node.js, AI/LLM |
+| [**Connect2Cure**](https://github.com/DivyamOswal/connect2cure) | AI-powered telemedicine platform featuring WebRTC video consultations and Gemini-based symptom triage. | React, Node.js, MongoDB, WebRTC, Gemini API |
+| [**WorkSphere**](https://github.com/DivyamOswal/worksphere) | Full-stack employee management system with CRUD operations, audit logs, and optimized search. | React, Node.js, Express, MongoDB |
+| [**EaseWithStay**](https://github.com/DivyamOswal/easewithstay) | Responsive hotel booking interface with a multi-step booking experience. | React, JavaScript, CSS3 |
 
+---
 
 ## 🧠 Currently Exploring
 
@@ -113,13 +113,13 @@
   <img src="https://img.shields.io/badge/Generative_AI-Learning-8E75B2?style=for-the-badge" />
 </p>
 
-* ⚡ Advanced **Next.js & TypeScript**
-* 🗄️ PostgreSQL and relational database architecture
-* 🏗️ Scalable backend and API architecture
-* 🔐 Authentication & authorization
-* 🤖 Generative AI & LLM application development
-* 🐳 Docker & cloud deployment
-* ☁️ AWS and production infrastructure
+- ⚡ Advanced **Next.js & TypeScript**
+- 🗄️ PostgreSQL and relational database architecture
+- 🏗️ Scalable backend and API architecture
+- 🔐 Authentication & authorization
+- 🤖 Generative AI & LLM application development
+- 🐳 Docker & cloud deployment
+- ☁️ AWS and production infrastructure
 
 ---
 
@@ -132,6 +132,29 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamOswal&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DivyamOswal/DivyamOswal/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DivyamOswal/DivyamOswal/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/DivyamOswal/DivyamOswal/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---

@@ -91,7 +91,6 @@ Building scalable applications and production-ready backend systems.
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge" />
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge" />
 </p>
 
 ---

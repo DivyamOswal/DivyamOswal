@@ -126,15 +126,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyamOswal&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyamOswal&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/DivyamOswal">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=DivyamOswal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF"
+      width="49%"
+    />
+  </a>
+
+  <a href="https://github.com/DivyamOswal">
+    <img
+      src="https://streak-stats.demolab.com?user=DivyamOswal&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681"
+      width="49%"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamOswal&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/DivyamOswal">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamOswal&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
+      width="45%"
+    />
+  </a>
 </p>
-
----
-
----
-

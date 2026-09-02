@@ -1,151 +1,245 @@
-<h1 align="center">Hi there, I'm Divyam Oswal 👋</h1>
+<div align="center">
+  <h1>👋 Hi, I'm Divyam Oswal</h1>
+  <h3>Full-Stack Developer | Next.js • TypeScript • Node.js • PostgreSQL | AI & Cloud Enthusiast</h3>
+  <p>Building production-ready full-stack applications and exploring AI-powered developer tools.</p>
+  <p>
+    <a href="https://linkedin.com/in/divyam-oswal-512651271"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:divyamoswal.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/DivyamOswal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
+</div>
 
-<h3 align="center">
-  Full-Stack Developer | Next.js • TypeScript • Node.js • PostgreSQL | AI & Cloud Enthusiast
-</h3>
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/divyam-oswal-512651271">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:divyamoswal.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/DivyamOswal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+## 👨‍💻 About Me
+
+I am a Full-Stack Developer with a strong focus on backend engineering and production-oriented development. Currently working as a Backend Developer Intern, I build robust APIs and application workflows using Next.js, TypeScript, Node.js, and PostgreSQL. I'm passionate about exploring Generative AI, LLMs, and AI-powered developer tools, and I enjoy designing scalable, secure systems.
+
+---
+
+## 📌 Quick Facts
+
+- 🎓 **Education:** B.Tech in Cloud Technology & Information Security, Ajeenkya D Y Patil University (CGPA: 8.3)  
+- 💼 **Current Role:** Backend Developer Intern  
+- 🔭 **Current Focus:** Production APIs, Full‑stack apps, AI integration  
+- 🧠 **Learning:** Advanced Next.js, TypeScript, PostgreSQL, System Design, AWS, Docker  
+- ⚙️ **Interests:** Cloud infrastructure, scalable backends, distributed systems, authentication & authorization
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,css,html" alt="Frontend stack: Next.js, React, TypeScript, JavaScript, Tailwind CSS, CSS3, HTML5" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend stack: Node.js, Express.js, Python" />
+</p>
+
+### Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma" alt="Databases & ORM: PostgreSQL, MongoDB, Redis, Prisma" />
+</p>
+
+### Authentication & Security
+<p>
+  <img src="https://skillicons.dev/icons?i=jwt" alt="JWT" />
+  <span style="display:inline-block; margin: 0 8px;">OAuth</span>
+  <span style="display:inline-block; margin: 0 8px;">Bcrypt</span>
+  <span style="display:inline-block; margin: 0 8px;">Zod</span>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel" alt="Cloud & DevOps: AWS, Docker, Linux, Vercel" />
+</p>
+
+### Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Developer Tools: Git, GitHub, Postman, VS Code, Figma" />
 </p>
 
 ---
 
-## 🔧 About Me
+## ⚙️ Engineering Focus
 
-- 🎓 B.Tech in **Cloud Technology & Information Security** from Ajeenkya D Y Patil University — CGPA 8.3
-- 💻 **Backend Developer Intern**, working on production-oriented APIs and application workflows
-- 🚀 Building **full-stack applications** with Next.js, TypeScript, Node.js and PostgreSQL
-- 🧠 Exploring **Generative AI, LLMs and AI-powered developer tools**
-- 🗄️ Experienced with both **SQL and NoSQL databases**
-- ☁️ Interested in **cloud infrastructure, scalable backend systems and distributed applications**
-- 🔐 Focused on authentication, authorization, API design and database architecture
-- 📫 Reach me at **[divyamoswal.work@gmail.com](mailto:divyamoswal.work@gmail.com)**
+I build systems that are clean, secure, and scalable. My typical flow:
+
+
+I enjoy designing maintainable APIs, optimizing database queries, and ensuring that every component works reliably in production.
 
 ---
 
-## 💻 Skills & Technologies
+## 📂 Featured Projects
 
-### 🎨 Frontend
+### 1. AI Code Reviewer
+[![AI Code Reviewer](https://github-readme-stats.vercel.app/api/pin/?username=DivyamOswal&repo=aiCodeReviewer&theme=dark)](https://github.com/DivyamOswal/aiCodeReviewer)
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+**AI‑powered code review platform that analyzes repositories and generates intelligent feedback using LLMs.**
 
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
-</p>
-
-### 🗄️ Databases & ORM
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
-
-### 🔐 Authentication & Security
-
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bcrypt-003A70?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-### 🛠️ Developer Tools & Services
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+- **Tech:** Next.js, TypeScript, Node.js, AI/LLM  
+- **Highlights:**
+  - Integrates with GitHub API to fetch repository code
+  - Uses LLM to detect issues and suggest improvements
+  - Provides detailed, human‑readable review reports
+  - Built with a focus on developer experience and automation
 
 ---
 
-## 🚀 Featured Projects
+### 2. Connect2Cure
+[![Connect2Cure](https://github-readme-stats.vercel.app/api/pin/?username=DivyamOswal&repo=connect2cure&theme=dark)](https://github.com/DivyamOswal/connect2cure)
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**AI Code Reviewer**](https://github.com/DivyamOswal/aiCodeReviewer) | AI-powered code review platform that analyzes repositories and generates intelligent feedback using LLMs. | Next.js, TypeScript, Node.js, AI/LLM |
-| [**Connect2Cure**](https://github.com/DivyamOswal/connect2cure) | AI-powered telemedicine platform featuring WebRTC video consultations and Gemini-based symptom triage. | React, Node.js, MongoDB, WebRTC, Gemini API |
-| [**WorkSphere**](https://github.com/DivyamOswal/worksphere) | Full-stack employee management system with CRUD operations, audit logs, and optimized search. | React, Node.js, Express, MongoDB |
-| [**EaseWithStay**](https://github.com/DivyamOswal/easewithstay) | Responsive hotel booking interface with a multi-step booking experience. | React, JavaScript, CSS3 |
+**AI‑powered telemedicine platform featuring WebRTC video consultations and Gemini‑based symptom triage.**
 
----
-
-## 🧠 Currently Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-Learning-8E75B2?style=for-the-badge" />
-</p>
-
-- ⚡ Advanced **Next.js & TypeScript**
-- 🗄️ PostgreSQL and relational database architecture
-- 🏗️ Scalable backend and API architecture
-- 🔐 Authentication & authorization
-- 🤖 Generative AI & LLM application development
-- 🐳 Docker & cloud deployment
-- ☁️ AWS and production infrastructure
+- **Tech:** React, Node.js, MongoDB, WebRTC, Gemini API  
+- **Highlights:**
+  - Real‑time video consultations using WebRTC
+  - AI‑driven symptom triage with Google’s Gemini
+  - Secure patient‑doctor communication
+  - Scalable backend with MongoDB for patient records
 
 ---
 
-## 📊 GitHub Stats
+### 3. WorkSphere
+[![WorkSphere](https://github-readme-stats.vercel.app/api/pin/?username=DivyamOswal&repo=worksphere&theme=dark)](https://github.com/DivyamOswal/worksphere)
 
-<p align="center">
-  <a href="https://github.com/DivyamOswal">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=DivyamOswal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=79C0FF"
-      width="49%"
-    />
-  </a>
+**Full‑stack employee management system with CRUD operations, audit logs, and optimized search.**
 
-  <a href="https://github.com/DivyamOswal">
-    <img
-      src="https://streak-stats.demolab.com?user=DivyamOswal&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681"
-      width="49%"
-    />
-  </a>
-</p>
+- **Tech:** React, Node.js, Express, MongoDB  
+- **Highlights:**
+  - Complete CRUD for employee records
+  - Audit logging for compliance and tracking
+  - Optimized search and filtering
+  - Role‑based access control for HR and managers
 
-<p align="center">
-  <a href="https://github.com/DivyamOswal">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamOswal&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
-      width="45%"
-    />
-  </a>
-</p>
+---
+
+### 4. EaseWithStay
+[![EaseWithStay](https://github-readme-stats.vercel.app/api/pin/?username=DivyamOswal&repo=easewithstay&theme=dark)](https://github.com/DivyamOswal/easewithstay)
+
+**Responsive hotel booking interface with a multi‑step booking experience.**
+
+- **Tech:** React, JavaScript, CSS3  
+- **Highlights:**
+  - Intuitive multi‑step booking flow
+  - Fully responsive design
+  - Dynamic room availability and pricing
+  - Clean, modern UI with CSS3 animations
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyamOswal&show_icons=true&theme=dark" alt="Divyam's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamOswal&layout=compact&theme=dark" alt="Top languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=DivyamOswal&theme=dark" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DivyamOswal&theme=onedark" alt="GitHub Trophies" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyamOswal&theme=react-dark" alt="GitHub Activity Graph" width="95%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DivyamOswal/DivyamOswal/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Next.js  
+- Advanced TypeScript  
+- PostgreSQL & Relational Database Architecture  
+- System Design & Scalability  
+- Generative AI & LLM Applications  
+- AWS & Cloud Infrastructure  
+- Docker & Containerization  
+- Backend Architecture & Microservices
+
+---
+
+## 💭 Development Philosophy
+
+**"Build it. Understand it. Improve it."**
+
+I believe in writing clean, maintainable code with a strong focus on:
+- Architecture and system design  
+- Well‑designed APIs and database schemas  
+- Security and performance from day one  
+- Production‑ready thinking and continuous improvement
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Master Advanced Next.js patterns  
+- [ ] Deepen TypeScript proficiency  
+- [ ] Build complex PostgreSQL‑driven applications  
+- [ ] Design and deploy scalable backend systems  
+- [ ] Integrate Generative AI into practical tools  
+- [ ] Gain AWS certifications and hands‑on experience  
+- [ ] Containerize applications with Docker  
+- [ ] Explore microservices and distributed architectures
+
+---
+
+## 📬 Let's Connect
+
+- **LinkedIn:** [divyam-oswal-512651271](https://linkedin.com/in/divyam-oswal-512651271)  
+- **GitHub:** [DivyamOswal](https://github.com/DivyamOswal)  
+- **Email:** [divyamoswal.work@gmail.com](mailto:divyamoswal.work@gmail.com)
+
+---
+
+<div align="center">
+  <sub>© 2026 Divyam Oswal · Built with ❤️ on GitHub</sub>
+</div>
+
+<!--
+============================================================
+GitHub Actions Workflow for Contribution Snake
+Place this file in: .github/workflows/snake.yml
+============================================================
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: DivyamOswal
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation"
+============================================================
+-->
